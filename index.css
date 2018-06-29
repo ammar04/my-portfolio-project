@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color:black;
   color:white;
 }
 h1{
@@ -8,4 +8,13 @@ h1{
 img{
   width: auto;
   height: auto;
+}
+ul li{
+  float: right;
+  width: 140px;
+  length:30px;
+}
+div{
+  colour:white;
+  background-color:black;
 }
